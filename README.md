@@ -1,3 +1,3 @@
-# Моделирање и симулација
+# FCSE-Modeling-and-Simulation
 
-**Зимски семестар, 2020** <br> <br>
+Research for Modeling and Simulation course [Faculty of Computer Science and Engineering - Skopje, 2020]
